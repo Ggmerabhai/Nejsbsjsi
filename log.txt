@@ -1,0 +1,661 @@
+UserID: 1075930789 | Time: 2024-08-17 20:07:45.052581 | Command: /attack | Target: 20.204.190.0 | Port: 10054 | Time: 120
+Username: @GameXPanther
+Target: 20.204.190.0
+Port: 10054
+Time: 120
+
+UserID: 1075930789 | Time: 2024-08-17 20:22:13.945718 | Command: /attack | Target: 20.235.95.34 | Port: 22945 | Time: 560
+Username: @GameXPanther
+Target: 20.235.95.34
+Port: 22945
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 06:50:20.704311 | Command: /attack | Target: 20.219.163.210 | Port: 12734 | Time: 180
+Username: @GameXPanther
+Target: 20.219.163.210
+Port: 12734
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-18 06:54:20.104023 | Command: /attack | Target: 20.219.163.210 | Port: 12734 | Time: 200
+Username: @GameXPanther
+Target: 20.219.163.210
+Port: 12734
+Time: 200
+
+UserID: 1075930789 | Time: 2024-08-18 06:58:30.110134 | Command: /attack | Target: 20.219.163.210 | Port: 12734 | Time: 120
+Username: @GameXPanther
+Target: 20.219.163.210
+Port: 12734
+Time: 120
+
+UserID: 1075930789 | Time: 2024-08-18 07:01:12.668642 | Command: /attack | Target: 20.219.163.210 | Port: 12734 | Time: 80
+Username: @GameXPanther
+Target: 20.219.163.210
+Port: 12734
+Time: 80
+
+UserID: 1075930789 | Time: 2024-08-18 07:03:06.936945 | Command: /attack | Target: 20.219.163.210 | Port: 12734 | Time: 120
+Username: @GameXPanther
+Target: 20.219.163.210
+Port: 12734
+Time: 120
+
+UserID: 1075930789 | Time: 2024-08-18 07:35:01.769176 | Command: /attack | Target: 20.235.93.164 | Port: 24789 | Time: 560
+Username: @GameXPanther
+Target: 20.235.93.164
+Port: 24789
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 07:46:27.962662 | Command: /attack | Target: 20.235.93.164 | Port: 24789 | Time: 180
+Username: @GameXPanther
+Target: 20.235.93.164
+Port: 24789
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-18 07:51:18.611539 | Command: /attack | Target: 20.235.93.164 | Port: 24789 | Time: 560
+Username: @GameXPanther
+Target: 20.235.93.164
+Port: 24789
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 07:59:36.819876 | Command: /attack | Target: 4.213.64.112 | Port: 29144 | Time: 560
+Username: @GameXPanther
+Target: 4.213.64.112
+Port: 29144
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 08:13:37.504477 | Command: /attack | Target: 4.213.64.112 | Port: 29144 | Time: 560
+Username: @GameXPanther
+Target: 4.213.64.112
+Port: 29144
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 08:23:13.759327 | Command: /attack | Target: 4.213.64.112 | Port: 29144 | Time: 260
+Username: @GameXPanther
+Target: 4.213.64.112
+Port: 29144
+Time: 260
+
+UserID: 1075930789 | Time: 2024-08-18 08:34:50.168133 | Command: /attack | Target: 20.198.111.131 | Port: 19647 | Time: 560
+Username: @GameXPanther
+Target: 20.198.111.131
+Port: 19647
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 08:51:15.720123 | Command: /attack | Target: 20.198.111.131 | Port: 19647 | Time: 60
+Username: @GameXPanther
+Target: 20.198.111.131
+Port: 19647
+Time: 60
+
+UserID: 1075930789 | Time: 2024-08-18 08:52:39.840286 | Command: /attack | Target: 20.198.111.131 | Port: 19647 | Time: 60
+Username: @GameXPanther
+Target: 20.198.111.131
+Port: 19647
+Time: 60
+
+UserID: 1075930789 | Time: 2024-08-18 08:55:02.791545 | Command: /attack | Target: 20.198.111.131 | Port: 19647 | Time: 180
+Username: @GameXPanther
+Target: 20.198.111.131
+Port: 19647
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-18 08:59:02.248682 | Command: /attack | Target: 20.198.111.131 | Port: 19647 | Time: 60
+Username: @GameXPanther
+Target: 20.198.111.131
+Port: 19647
+Time: 60
+
+UserID: 1075930789 | Time: 2024-08-18 09:00:28.692524 | Command: /attack | Target: 20.198.111.131 | Port: 19647 | Time: 180
+Username: @GameXPanther
+Target: 20.198.111.131
+Port: 19647
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-18 09:03:58.802754 | Command: /attack | Target: 20.198.111.131 | Port: 19647 | Time: 60
+Username: @GameXPanther
+Target: 20.198.111.131
+Port: 19647
+Time: 60
+
+UserID: 1075930789 | Time: 2024-08-18 09:05:52.050297 | Command: /attack | Target: 20.198.111.131 | Port: 19647 | Time: 560
+Username: @GameXPanther
+Target: 20.198.111.131
+Port: 19647
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 09:34:40.213835 | Command: /attack | Target: 20.204.17.98 | Port: 28787 | Time: 560
+Username: @GameXPanther
+Target: 20.204.17.98
+Port: 28787
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 09:52:51.190079 | Command: /attack | Target: 20.204.17.98 | Port: 28787 | Time: 260
+Username: @GameXPanther
+Target: 20.204.17.98
+Port: 28787
+Time: 260
+
+UserID: 1075930789 | Time: 2024-08-18 10:25:55.604359 | Command: /attack | Target: 20.204.88.149 | Port: 20873 | Time: 500
+Username: @GameXPanther
+Target: 20.204.88.149
+Port: 20873
+Time: 500
+
+UserID: 1075930789 | Time: 2024-08-18 10:34:51.249632 | Command: /attack | Target: 20.204.88.149 | Port: 20873 | Time: 180
+Username: @GameXPanther
+Target: 20.204.88.149
+Port: 20873
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-18 10:46:54.852695 | Command: /attack | Target: 20.204.88.149 | Port: 20873 | Time: 60
+Username: @GameXPanther
+Target: 20.204.88.149
+Port: 20873
+Time: 60
+
+UserID: 1075930789 | Time: 2024-08-18 10:48:56.841815 | Command: /attack | Target: 20.204.88.149 | Port: 20873 | Time: 60
+Username: @GameXPanther
+Target: 20.204.88.149
+Port: 20873
+Time: 60
+
+UserID: 1075930789 | Time: 2024-08-18 10:52:01.434556 | Command: /attack | Target: 20.204.88.149 | Port: 20873 | Time: 560
+Username: @GameXPanther
+Target: 20.204.88.149
+Port: 20873
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 11:01:50.164108 | Command: /attack | Target: 20.219.167.192 | Port: 22157 | Time: 560
+Username: @GameXPanther
+Target: 20.219.167.192
+Port: 22157
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 11:03:21.370912 | Command: /attack | Target: 20.219.166.58 | Port: 18623 | Time: 560
+Username: @GameXPanther
+Target: 20.219.166.58
+Port: 18623
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 14:16:51.874979 | Command: /attack | Target: 20.198.108.203 | Port: 18986 | Time: 560
+Username: @GameXPanther
+Target: 20.198.108.203
+Port: 18986
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-18 14:49:58.496999 | Command: /attack | Target: 4.213.65.142 | Port: 12771 | Time: 560
+Username: @GameXPanther
+Target: 4.213.65.142
+Port: 12771
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 05:53:24.838272 | Command: /attack | Target: 20.204.187.93 | Port: 10230 | Time: 560
+UserID: 1075930789 | Time: 2024-08-19 06:01:39.717258 | Command: /attack | Target: 20.204.187.93 | Port: 10230 | Time: 560
+Username: @GameXPanther
+Target: 20.204.187.93
+Port: 10230
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 07:46:57.607195 | Command: /attack | Target: 20.204.10.249 | Port: 28226 | Time: 560
+Username: @GameXPanther
+Target: 20.204.10.249
+Port: 28226
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 07:58:52.891537 | Command: /attack | Target: 20.204.10.249 | Port: 28226 | Time: 560
+Username: @GameXPanther
+Target: 20.204.10.249
+Port: 28226
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 08:01:31.455100 | Command: /attack | Target: 20.204.39.31 | Port: 19087 | Time: 560
+Username: @GameXPanther
+Target: 20.204.39.31
+Port: 19087
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 08:03:25.757546 | Command: /attack | Target: 20.204.69.85 | Port: 14676 | Time: 560
+Username: @GameXPanther
+Target: 20.204.69.85
+Port: 14676
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 08:33:06.376601 | Command: /attack | Target: 20.204.69.85 | Port: 14676 | Time: 560
+Username: @GameXPanther
+Target: 20.204.69.85
+Port: 14676
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 08:36:14.692008 | Command: /attack | Target: 20.204.18.144 | Port: 23108 | Time: 560
+Username: @GameXPanther
+Target: 20.204.18.144
+Port: 23108
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 10:59:15.291127 | Command: /attack | Target: 20.204.17.4 | Port: 19312 | Time: 560
+Username: @GameXPanther
+Target: 20.204.17.4
+Port: 19312
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 11:10:16.867867 | Command: /attack | Target: 20.204.17.4 | Port: 19312 | Time: 120
+Username: @GameXPanther
+Target: 20.204.17.4
+Port: 19312
+Time: 120
+
+UserID: 1075930789 | Time: 2024-08-19 11:16:05.749236 | Command: /attack | Target: 20.204.17.4 | Port: 19312 | Time: 570
+Username: @GameXPanther
+Target: 20.204.17.4
+Port: 19312
+Time: 570
+
+UserID: 1075930789 | Time: 2024-08-19 11:16:21.984574 | Command: /attack | Target: 20.204.17.4 | Port: 19312 | Time: 560
+Username: @GameXPanther
+Target: 20.204.17.4
+Port: 19312
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 11:56:25.161029 | Command: /attack | Target: 20.198.110.70 | Port: 22437 | Time: 560
+Username: @GameXPanther
+Target: 20.198.110.70
+Port: 22437
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 12:05:16.384904 | Command: /attack | Target: 20.198.110.70 | Port: 22437 | Time: 120
+Username: @GameXPanther
+Target: 20.198.110.70
+Port: 22437
+Time: 120
+
+UserID: 1075930789 | Time: 2024-08-19 12:21:08.860167 | Command: /attack | Target: 20.198.110.70 | Port: 22437 | Time: 180
+Username: @GameXPanther
+Target: 20.198.110.70
+Port: 22437
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-19 12:29:45.509247 | Command: /attack | Target: 20.198.110.70 | Port: 22437 | Time: 120
+Username: @GameXPanther
+Target: 20.198.110.70
+Port: 22437
+Time: 120
+
+UserID: 1075930789 | Time: 2024-08-19 12:30:28.779278 | Command: /attack | Target: 4.213.68.229 | Port: 26824 | Time: 180
+Username: @GameXPanther
+Target: 4.213.68.229
+Port: 26824
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-19 15:29:16.540250 | Command: /attack | Target: 20.198.73.136 | Port: 25162 | Time: 350
+Username: @GameXPanther
+Target: 20.198.73.136
+Port: 25162
+Time: 350
+
+UserID: 1075930789 | Time: 2024-08-19 15:43:21.482313 | Command: /attack | Target: 20.204.20.212 | Port: 10984 | Time: 560
+Username: @GameXPanther
+Target: 20.204.20.212
+Port: 10984
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 15:52:51.742484 | Command: /attack | Target: 20.204.20.212 | Port: 10984 | Time: 180
+Username: @GameXPanther
+Target: 20.204.20.212
+Port: 10984
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-19 16:10:39.179853 | Command: /attack | Target: 20.204.20.212 | Port: 10984 | Time: 180
+Username: @GameXPanther
+Target: 20.204.20.212
+Port: 10984
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-19 16:14:04.693050 | Command: /attack | Target: 20.204.148.51 | Port: 14332 | Time: 560
+Username: @GameXPanther
+Target: 20.204.148.51
+Port: 14332
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 16:24:08.172515 | Command: /attack | Target: 20.204.148.51 | Port: 14332 | Time: 120
+Username: @GameXPanther
+Target: 20.204.148.51
+Port: 14332
+Time: 120
+
+UserID: 1075930789 | Time: 2024-08-19 16:38:04.724664 | Command: /attack | Target: 20.204.148.51 | Port: 14332 | Time: 180
+Username: @GameXPanther
+Target: 20.204.148.51
+Port: 14332
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-19 16:39:55.697791 | Command: /attack | Target: 20.204.148.51 | Port: 14332 | Time: 560
+Username: @GameXPanther
+Target: 20.204.148.51
+Port: 14332
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 16:44:46.606612 | Command: /attack | Target: 20.204.19.15 | Port: 10037 | Time: 560
+Username: @GameXPanther
+Target: 20.204.19.15
+Port: 10037
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 16:58:45.924574 | Command: /attack | Target: 20.204.19.15 | Port: 10037 | Time: 300
+Username: @GameXPanther
+Target: 20.204.19.15
+Port: 10037
+Time: 300
+
+UserID: 1075930789 | Time: 2024-08-19 17:06:04.392356 | Command: /attack | Target: 20.204.19.15 | Port: 10037 | Time: 300
+Username: @GameXPanther
+Target: 20.204.19.15
+Port: 10037
+Time: 300
+
+UserID: 1075930789 | Time: 2024-08-19 17:16:27.837385 | Command: /attack | Target: 20.204.19.15 | Port: 10037 | Time: 300
+Username: @GameXPanther
+Target: 20.204.19.15
+Port: 10037
+Time: 300
+
+UserID: 1075930789 | Time: 2024-08-19 17:27:58.266621 | Command: /attack | Target: 4.247.16.134 | Port: 11879 | Time: 560
+Username: @GameXPanther
+Target: 4.247.16.134
+Port: 11879
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 17:37:26.537467 | Command: /attack | Target: 4.247.16.134 | Port: 11879 | Time: 560
+Username: @GameXPanther
+Target: 4.247.16.134
+Port: 11879
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 20:36:13.101494 | Command: /attack | Target: 20.198.76.88 | Port: 13526 | Time: 560
+Username: @GameXPanther
+Target: 20.198.76.88
+Port: 13526
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 20:45:39.201986 | Command: /attack | Target: 20.198.76.88 | Port: 13526 | Time: 560
+Username: @GameXPanther
+Target: 20.198.76.88
+Port: 13526
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 20:55:27.300667 | Command: /attack | Target: 20.198.76.88 | Port: 13526 | Time: 560
+Username: @GameXPanther
+Target: 20.198.76.88
+Port: 13526
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 21:00:36.681862 | Command: /attack | Target: 20.235.10.172 | Port: 11395 | Time: 560
+Username: @GameXPanther
+Target: 20.235.10.172
+Port: 11395
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-19 21:07:46.403325 | Command: /attack | Target: 20.235.10.172 | Port: 11395 | Time: 180
+Username: @GameXPanther
+Target: 20.235.10.172
+Port: 11395
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-19 21:09:17.944566 | Command: /attack | Target: 20.235.10.172 | Port: 11395 | Time: 180
+Username: @GameXPanther
+Target: 20.235.10.172
+Port: 11395
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-19 21:30:18.509261 | Command: /attack | Target: 52.140.1.159 | Port: 15208 | Time: 560
+Username: @GameXPanther
+Target: 52.140.1.159
+Port: 15208
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 06:31:57.686554 | Command: /attack | Target: 20.219.6.46 | Port: 28485 | Time: 560
+Username: @GameXPanther
+Target: 20.219.6.46
+Port: 28485
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 06:41:32.445903 | Command: /attack | Target: 20.219.6.46 | Port: 28485 | Time: 180
+Username: @GameXPanther
+Target: 20.219.6.46
+Port: 28485
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-20 06:47:03.412863 | Command: /attack | Target: 20.219.6.46 | Port: 28485 | Time: 560
+Username: @GameXPanther
+Target: 20.219.6.46
+Port: 28485
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 06:50:50.254952 | Command: /attack | Target: 20.198.106.69 | Port: 13025 | Time: 560
+Username: @GameXPanther
+Target: 20.198.106.69
+Port: 13025
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 07:18:00.351095 | Command: /attack | Target: 20.198.106.69 | Port: 13025 | Time: 560
+Username: @GameXPanther
+Target: 20.198.106.69
+Port: 13025
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 07:31:59.927138 | Command: /attack | Target: 4.213.65.113 | Port: 10746 | Time: 560
+Username: @GameXPanther
+Target: 4.213.65.113
+Port: 10746
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 07:42:02.504738 | Command: /attack | Target: 4.213.65.113 | Port: 10746 | Time: 120
+Username: @GameXPanther
+Target: 4.213.65.113
+Port: 10746
+Time: 120
+
+UserID: 1075930789 | Time: 2024-08-20 07:44:15.378224 | Command: /attack | Target: 4.213.65.113 | Port: 10746 | Time: 120
+Username: @GameXPanther
+Target: 4.213.65.113
+Port: 10746
+Time: 120
+
+UserID: 1075930789 | Time: 2024-08-20 07:48:06.284424 | Command: /attack | Target: 4.213.65.113 | Port: 10746 | Time: 560
+Username: @GameXPanther
+Target: 4.213.65.113
+Port: 10746
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 07:50:13.809340 | Command: /attack | Target: 20.198.74.140 | Port: 17502 | Time: 360
+Username: @GameXPanther
+Target: 20.198.74.140
+Port: 17502
+Time: 360
+
+UserID: 1075930789 | Time: 2024-08-20 07:56:24.387183 | Command: /attack | Target: 20.198.74.140 | Port: 17502 | Time: 360
+Username: @GameXPanther
+Target: 20.198.74.140
+Port: 17502
+Time: 360
+
+UserID: 1075930789 | Time: 2024-08-20 08:03:35.016323 | Command: /attack | Target: 20.198.74.140 | Port: 17502 | Time: 360
+Username: @GameXPanther
+Target: 20.198.74.140
+Port: 17502
+Time: 360
+
+UserID: 1075930789 | Time: 2024-08-20 08:05:35.729606 | Command: /attack | Target: 20.204.17.190 | Port: 10752 | Time: 560
+Username: @GameXPanther
+Target: 20.204.17.190
+Port: 10752
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 08:19:46.605322 | Command: /attack | Target: 20.204.17.190 | Port: 10752 | Time: 560
+Username: @GameXPanther
+Target: 20.204.17.190
+Port: 10752
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 08:30:30.835990 | Command: /attack | Target: 20.204.17.190 | Port: 10752 | Time: 560
+Username: @GameXPanther
+Target: 20.204.17.190
+Port: 10752
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 08:40:26.442214 | Command: /attack | Target: 20.204.17.190 | Port: 10752 | Time: 560
+Username: @GameXPanther
+Target: 20.204.17.190
+Port: 10752
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 08:50:10.567643 | Command: /attack | Target: 20.204.39.127 | Port: 19917 | Time: 180
+Username: @GameXPanther
+Target: 20.204.39.127
+Port: 19917
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-20 09:01:17.021170 | Command: /attack | Target: 20.204.39.127 | Port: 19917 | Time: 180
+Username: @GameXPanther
+Target: 20.204.39.127
+Port: 19917
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-20 09:04:37.276635 | Command: /attack | Target: 20.204.39.127 | Port: 19917 | Time: 60
+Username: @GameXPanther
+Target: 20.204.39.127
+Port: 19917
+Time: 60
+
+UserID: 1075930789 | Time: 2024-08-20 09:42:49.383977 | Command: /attack | Target: 20.198.73.131 | Port: 20302 | Time: 570
+Username: @GameXPanther
+Target: 20.198.73.131
+Port: 20302
+Time: 570
+
+UserID: 1075930789 | Time: 2024-08-20 09:52:26.464932 | Command: /attack | Target: 20.198.73.131 | Port: 20302 | Time: 120
+Username: @GameXPanther
+Target: 20.198.73.131
+Port: 20302
+Time: 120
+
+UserID: 1075930789 | Time: 2024-08-20 09:56:28.654432 | Command: /attack | Target: 20.198.73.131 | Port: 20302 | Time: 560
+Username: @GameXPanther
+Target: 20.198.73.131
+Port: 20302
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 09:59:10.304957 | Command: /attack | Target: 20.235.93.18 | Port: 29641 | Time: 360
+Username: @GameXPanther
+Target: 20.235.93.18
+Port: 29641
+Time: 360
+
+UserID: 1075930789 | Time: 2024-08-20 10:08:21.043653 | Command: /attack | Target: 20.235.93.18 | Port: 29641 | Time: 360
+Username: @GameXPanther
+Target: 20.235.93.18
+Port: 29641
+Time: 360
+
+UserID: 1075930789 | Time: 2024-08-20 10:17:49.986666 | Command: /attack | Target: 20.204.190.13 | Port: 10096 | Time: 570
+Username: @GameXPanther
+Target: 20.204.190.13
+Port: 10096
+Time: 570
+
+UserID: 1075930789 | Time: 2024-08-20 10:27:32.193282 | Command: /attack | Target: 20.204.190.13 | Port: 10096 | Time: 60
+Username: @GameXPanther
+Target: 20.204.190.13
+Port: 10096
+Time: 60
+
+UserID: 1075930789 | Time: 2024-08-20 10:30:56.269098 | Command: /attack | Target: 20.204.190.13 | Port: 10096 | Time: 560
+Username: @GameXPanther
+Target: 20.204.190.13
+Port: 10096
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 10:39:39.591905 | Command: /attack | Target: 4.213.66.126 | Port: 12705 | Time: 360
+Username: @GameXPanther
+Target: 4.213.66.126
+Port: 12705
+Time: 360
+
+UserID: 1075930789 | Time: 2024-08-20 10:48:07.045154 | Command: /attack | Target: 4.213.66.126 | Port: 12705 | Time: 60
+Username: @GameXPanther
+Target: 4.213.66.126
+Port: 12705
+Time: 60
+
+UserID: 1075930789 | Time: 2024-08-20 10:49:41.313257 | Command: /attack | Target: 4.213.66.126 | Port: 12705 | Time: 560
+Username: @GameXPanther
+Target: 4.213.66.126
+Port: 12705
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 15:50:53.834508 | Command: /attack | Target: 4.213.68.242 | Port: 26000 | Time: 560
+Username: @GameXPanther
+Target: 4.213.68.242
+Port: 26000
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 16:00:37.035790 | Command: /attack | Target: 4.213.68.242 | Port: 26000 | Time: 180
+Username: @GameXPanther
+Target: 4.213.68.242
+Port: 26000
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-20 16:05:13.735693 | Command: /attack | Target: 4.213.68.242 | Port: 26000 | Time: 60
+Username: @GameXPanther
+Target: 4.213.68.242
+Port: 26000
+Time: 60
+
+UserID: 1075930789 | Time: 2024-08-20 16:06:49.863262 | Command: /attack | Target: 4.213.68.242 | Port: 26000 | Time: 560
+Username: @GameXPanther
+Target: 4.213.68.242
+Port: 26000
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 16:10:14.694393 | Command: /attack | Target: 4.247.19.14 | Port: 12288 | Time: 560
+Username: @GameXPanther
+Target: 4.247.19.14
+Port: 12288
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 16:26:50.363862 | Command: /attack | Target: 4.247.19.14 | Port: 12288 | Time: 560
+Username: @GameXPanther
+Target: 4.247.19.14
+Port: 12288
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 16:30:02.884584 | Command: /attack | Target: 20.204.39.173 | Port: 26141 | Time: 560
+Username: @GameXPanther
+Target: 20.204.39.173
+Port: 26141
+Time: 560
+
+UserID: 1075930789 | Time: 2024-08-20 16:49:12.232095 | Command: /attack | Target: 20.204.39.173 | Port: 26141 | Time: 200
+Username: @GameXPanther
+Target: 20.204.39.173
+Port: 26141
+Time: 200
+
+UserID: 1075930789 | Time: 2024-08-20 16:55:14.456184 | Command: /attack | Target: 20.204.39.173 | Port: 26141 | Time: 180
+Username: @GameXPanther
+Target: 20.204.39.173
+Port: 26141
+Time: 180
+
+UserID: 1075930789 | Time: 2024-08-20 16:58:33.450823 | Command: /attack | Target: 20.204.39.173 | Port: 26141 | Time: 60
+Username: @GameXPanther
+Target: 20.204.39.173
+Port: 26141
+Time: 60
+
+UserID: 1075930789 | Time: 2024-08-20 17:01:54.237682 | Command: /attack | Target: 20.204.39.173 | Port: 26141 | Time: 560
+Username: @GameXPanther
+Target: 20.204.39.173
+Port: 26141
+Time: 560
+
